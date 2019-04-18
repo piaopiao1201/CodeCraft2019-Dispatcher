@@ -2,4 +2,4 @@
 
 
 
-![](.\patchLogic.jpg)
+![](patchLogic.jpg)
